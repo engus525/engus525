@@ -1,4 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=f7b628&height=200&section=header&text=🌱%20가치있는%20개발자,%20김두현입니다%20🌱&fontSize=40&fontColor=f7f728&animation=twinkling)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=engus525)](https://solved.ac/engus525/)
+![engus525 profile](http://mazandi.herokuapp.com/api?handle=engus525&theme=warm)
 
 <!--
 **engus525/engus525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
