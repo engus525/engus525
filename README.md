@@ -1,12 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f7b628&height=180&section=header&text=🌱%20가치있는%20개발자,%20김두현입니다%20🌱&fontSize=40&fontColor=f7f728&fontAlignY=33&rotate=1&animation=twinkling)
 
 <!--백준 띄우기-->
+>## 📈PS Growing Up  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&color=orange&height=150&width=500&logo=cplusplus&logoColor=blue">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=engus525)](https://solved.ac/engus525/)
 ![engus525 profile](http://mazandi.herokuapp.com/api?handle=engus525&theme=warm)
 
 <br><br>
 
 <!--벨로그 띄우기-->
+>##  Come visit my Blog! 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=engus525)](https://velog.io/@engus525/백엔드-커리큘럼을-시작하며)
 
 <!--
