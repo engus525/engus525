@@ -13,6 +13,8 @@
   <br>
   <!-- Back -->
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openJDK&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <br>
   
   <!-- else Lang-->
@@ -34,6 +36,7 @@
   <br>
   
   <!-- Idle -->
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/VS code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Clion-skyblue?style=for-the-badge&logo=clion&logoColor=white">
