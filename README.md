@@ -24,23 +24,12 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
   <br>
   
-  <!-- tool -->
-  <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
-  
   <!-- Blog -->
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Velog-green?style=for-the-badge&logo=velog&logoColor=white">
-  <img src="https://img.shields.io/badge/Tistoty-orange?style=for-the-badge&logo=tistory&logoColor=black">
+  <img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=tistory&logoColor=black">
   <br>
-  
-  <!-- Idle -->
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/VS code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Clion-skyblue?style=for-the-badge&logo=clion&logoColor=white">
-  <br>
+ 
   
   
 <br>
