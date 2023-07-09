@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f7b628&height=180&section=header&text=🌱%20가치있는%20개발자,%20김두현입니다%20🌱&fontSize=40&fontColor=f7f728&fontAlignY=33&rotate=1&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f7b628&height=180&section=header&text=🌱%20가치있는%20개발자,%20김두현입니다%20🌱&fontSize=40&fontColor=f7f728&fontAlignY=33&animation=twinkling)
 
 <!-- 기술 스택 -->
   <h2> ⚙️ Tech Stacks ⚙️</h2>
