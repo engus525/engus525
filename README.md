@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=27e2a4&height=180&section=header&text=&fontSize=40&fontColor=f7f728&fontAlignY=33&animation=twinkling)
 
+
 <!-- 기술 스택 -->
   <h2> ⚙️ Tech Stacks ⚙️</h2>
   
@@ -18,15 +19,15 @@
   <br>
   
   <!-- else Lang-->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> -->
   <br>
   
   <!-- Blog -->
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Velog-green?style=for-the-badge&logo=velog&logoColor=white">
-  <img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=tistory&logoColor=black">
+<!--   <img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=tistory&logoColor=black"> -->
   <br>
  
   
