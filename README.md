@@ -41,7 +41,8 @@
 <h2>💻 PS Growing Up 💻 <img src="https://img.shields.io/badge/C++-00599C?style=flat&color=black&logo=cplusplus&logoColor=white"></h2>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=engus525)](https://solved.ac/engus525/)
-![engus525 profile](http://mazandi.herokuapp.com/api?handle=engus525&theme=warm)
+
+<!-- ![engus525 profile](http://mazandi.herokuapp.com/api?handle=engus525&theme=warm) -->
 
 <br>
 <!--벨로그 띄우기-->
