@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=27e2a4&height=180&section=header&text=&fontSize=40&fontColor=f7f728&fontAlignY=33&animation=twinkling)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=engus525&theme=shadow-green&hide_border=true)](https://git.io/streak-stats)
+
 <!-- 기술 스택 -->
   <h2> ⚙️ Tech Stacks ⚙️</h2>
   
